@@ -25,6 +25,8 @@ public class Main {
                 return o2.getValue().compareTo(o1.getValue());
             }
         });
+        // 위에꺼랑 똑같음
+        // Collections.sort(listEntries, (o1, o2) -> (o2.getValue().compareTo(o1.getValue())));
 
         if(listEntries.size() > 1) {
             if (listEntries.get(0).getValue().equals(listEntries.get(1).getValue())) {
