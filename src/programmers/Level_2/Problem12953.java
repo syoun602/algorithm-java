@@ -1,5 +1,10 @@
 package programmers.Level_2;
 
+/*
+Problem 12953 - N개의 최소공배수 (Level 2)
+Link to Problem - https://programmers.co.kr/learn/courses/30/lessons/12953
+*/
+
 public class Problem12953 {
     public int solution(int[] arr) {
         int answer = arr[0];
