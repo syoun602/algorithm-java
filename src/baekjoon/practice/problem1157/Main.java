@@ -1,7 +1,5 @@
-package baekjoon.problem1157;
+package baekjoon.practice.problem1157;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main {

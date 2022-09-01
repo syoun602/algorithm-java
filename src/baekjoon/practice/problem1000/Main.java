@@ -1,16 +1,15 @@
-package baekjoon.problem1008;
+package baekjoon.practice.problem1000;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
-        double a, b;
-        a = sc.nextDouble();
-        b = sc.nextDouble();
+        int a, b;
+        a = sc.nextInt();
+        b = sc.nextInt();
 
-        System.out.println(a/b);
+        System.out.println(a+b);
     }
 }

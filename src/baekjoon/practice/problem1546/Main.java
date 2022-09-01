@@ -1,4 +1,4 @@
-package baekjoon.problem15552;
+package baekjoon.practice.problem1546;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,14 +12,19 @@ public class Main {
         StringTokenizer st = null;
 
         int n = Integer.parseInt(in.readLine());
-        int a, b = 0;
+        double[] arr = new double [n];
+        int max = 0;
+        double ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            st = new StringTokenizer(in.readLine(), " ");
-            a = Integer.parseInt(st.nextToken());
-            b = Integer.parseInt(st.nextToken());
-            sb.append(a+b).append("\n");
+        st = new StringTokenizer(in.readLine());
+        for(int i = 0; i < n; i++) {
+            arr[i] = Double.parseDouble(st.nextToken());
+            max = Math.max(max, (int) arr[i]);
         }
-        System.out.print(sb.toString());
+
+        for(int i = 0; i < arr.length; i++)
+            ans += arr[i] / max * 100 / arr.length;
+
+        System.out.println(ans);
     }
 }

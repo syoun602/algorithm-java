@@ -1,4 +1,4 @@
-package baekjoon.Map.problem7662;
+package baekjoon.map.problem7662;
 
 import java.io.BufferedReader;
 import java.io.IOException;

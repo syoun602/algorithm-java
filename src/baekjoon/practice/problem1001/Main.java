@@ -1,4 +1,4 @@
-package baekjoon.problem1001;
+package baekjoon.practice.problem1001;
 
 import java.util.Scanner;
 

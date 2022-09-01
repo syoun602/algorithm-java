@@ -1,4 +1,4 @@
-package baekjoon.problem1152;
+package baekjoon.practice.problem1152;
 
 import java.io.IOException;
 import java.util.Scanner;
