@@ -1,4 +1,4 @@
-package baekjoon.Simulation.problem15685;
+package baekjoon.simulation.problem15685;
 
 import java.io.BufferedReader;
 import java.io.IOException;

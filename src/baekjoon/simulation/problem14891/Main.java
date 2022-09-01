@@ -1,11 +1,10 @@
-package baekjoon.Simulation.problem14891;
+package baekjoon.simulation.problem14891;
 
 // 14891 - 톱니바퀴
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
