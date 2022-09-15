@@ -1,4 +1,4 @@
-package programmers.Level_2;
+package programmers.level_2;
 
 /*
 Problem 12953 - N개의 최소공배수 (Level 2)

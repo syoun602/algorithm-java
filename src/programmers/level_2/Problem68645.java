@@ -1,4 +1,4 @@
-package programmers.Level_2;
+package programmers.level_2;
 
 /*
 Problem 68645 - 삼각 달팽이 (Level 2)

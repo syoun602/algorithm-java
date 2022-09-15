@@ -1,4 +1,4 @@
-package programmers.Level_2;
+package programmers.level_2;
 
 /*
 Problem 68936 - 쿼드압축 후 개수 세기 (Level 2)

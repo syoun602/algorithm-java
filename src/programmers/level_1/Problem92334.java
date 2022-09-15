@@ -1,4 +1,4 @@
-package programmers.Level_1;
+package programmers.level_1;
 
 import java.util.HashMap;
 import java.util.HashSet;

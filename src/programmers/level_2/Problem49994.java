@@ -1,4 +1,4 @@
-package programmers.Level_2;
+package programmers.level_2;
 
 /*
 Problem 49994 - 방문 길이 (Level 2)
